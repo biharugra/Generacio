@@ -1,0 +1,40 @@
+#menubar,
+#menubar ul {
+    list-style: none;
+
+}
+#menubar>li{
+    float: left;
+        border: solid 2pt black;
+}
+#menubar li a{
+    display: block;
+    height: 30px;
+    width: 270px;
+    padding: 20px;
+    text-decoration: none;
+}
+#menubar>li>a{
+    background-color:firebrick;
+        color:#fff;
+        
+}
+#tartalomjegyzek{
+    position: absolute;
+    background-color:firebrick;
+    display: none;
+}
+#tartalomjegyzek>li>a{
+    color: #fff;
+    width: 230px;
+    
+}
+#menubar li a:hover{
+   
+    background-color:chocolate;
+    color: #fff;
+    
+}
+#menubar li:hover #tartalomjegyzek{
+    display: block;
+}
