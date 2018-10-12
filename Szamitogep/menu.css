@@ -6,6 +6,8 @@
 #menubar>li{
     float: left;
         border: solid 2pt black;
+    font-family: 'Niramit', sans-serif;
+    font-family: 'Mali', cursive;
 }
 #menubar li a{
     display: block;

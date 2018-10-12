@@ -1,7 +1,18 @@
 html{
     text-align: justify;
+    font-family: 'Niramit', sans-serif;
+    font-family: 'Mali', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Lora', serif;
 }
 
+
+
+a{
+    text-decoration-color: chocolate;
+    color: brown;
+    
+}
 
 
 #jobbkep{
@@ -33,5 +44,36 @@ html{
     width: 50%;
 }
    
+body{
+    background: url('')
+}
+#kep{
+    background: url('Szamitogep/90079.jpg');
+        background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;}
+
+#kep1{
+    background: url('NeumanJanos/felho.jpg');
+        background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;}
+#kep2{
+    background: url('Generaciok/90167.jpg');
+        background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;}
+#kep3{
+    background: url('Ergonomia/849174.jpg');
+        background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;}
+
+
+
 
 
