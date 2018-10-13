@@ -8,11 +8,6 @@ html{
 
 
 
-a{
-    text-decoration-color: chocolate;
-    color: brown;
-    
-}
 
 
 #jobbkep{
@@ -48,7 +43,7 @@ body{
     background: url('')
 }
 #kep{
-    background: url('Szamitogep/90079.jpg');
+    background: url('Szamitogep/red.jpg');
         background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -61,13 +56,13 @@ body{
     background-position: center;
     background-size: cover;}
 #kep2{
-    background: url('Generaciok/90167.jpg');
+    background: url('Generaciok/rock.jpg');
         background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;}
 #kep3{
-    background: url('Ergonomia/849174.jpg');
+    background: url('Szamitogep/23.jpg');
         background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
